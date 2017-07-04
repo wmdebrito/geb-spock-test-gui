@@ -1,4 +1,5 @@
 # geb-spock-test-gui
+https://travis-ci.org/wmdebrito/geb-spock-test-gui.svg?branch=master
 Geb Spock test for GUI
 
 Geb using PhantomJs as default browser (not need to install).
